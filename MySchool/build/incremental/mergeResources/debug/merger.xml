@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res" >
+            <file
+                name="background"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/background.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_n"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/button_n.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_p"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/button_p.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_contacts"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/ic_launcher_contacts.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main_button_01"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/main_button_01.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main_button_02"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/main_button_02.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main_button_03"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/main_button_03.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main_logo"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-hdpi/main_logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_contacts"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-mdpi/ic_launcher_contacts.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="background"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/background.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_n"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/button_n.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button_p"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/button_p.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_contacts"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/ic_launcher_contacts.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main_button_01"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/main_button_01.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main_button_02"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/main_button_02.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main_button_03"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/main_button_03.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main_logo"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xhdpi/main_logo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main2"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/activity_main2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="area"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/area.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="developer"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/developer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="easteregg"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/easteregg.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="findschool"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/findschool.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="first"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/first.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="foodactivity"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/foodactivity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_row"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loadfood"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/loadfood.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="schedule"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/schedule.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="setting"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout/setting.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout-sw600dp/activity_main.xml"
+                qualifiers="sw600dp"
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/layout-sw720dp/activity_main.xml"
+                qualifiers="sw720dp"
+                type="layout" />
+            <file
+                name="area"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/area.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="developer"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/developer.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="easter_egg"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/easter_egg.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="find_school"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/find_school.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="food"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/food.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="load_food"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/load_food.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="schedule"
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/menu/schedule.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_area" >지역 선택
+                </string>
+                <string name="title_activity_food" >MainActivity
+                </string>
+                <string name="app_name" >My School
+                </string>
+                <string name="title_activity_find_school" >학교찾기
+                </string>
+                <string name="recentapp" >최근 실행된 어플
+                </string>
+                <string name="title_activity_load_food" >식단표
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_schedule" >Schedule
+                </string>
+                <string name="title_activity_developer" >개발자
+                </string>
+                <string name="title_activity_easter_egg" >EasterEgg
+                </string>
+            </file>
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/TaeukKim/Desktop/MySchoolProject/MySchool/src/debug/res" />
+    </dataSet>
+
+</merger>
